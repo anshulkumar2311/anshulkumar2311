@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Book_Space](https://github.com/anshulkumar2311/)
 
-- 🌱 I’m currently learning **Kotlin , Flutter Development**
+- 🌱 I’m currently learning **React , Flutter Development**
 
 - 💬 Ask me about **Flutter Development, Front End Development**
 
